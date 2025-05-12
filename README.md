@@ -42,9 +42,11 @@
 ---
 
 ### Featured Projects 🚀  
-** Finance For All** – 1st Place: AI Chatbot for financial literacy using Google Gemini  
-** EcoVision** – AI & OpenCV-based waste classification, Best AI Hack @ HackRPI  
-** CartX** – Full-stack shopping optimizer app using Selenium & MongoDB (30% faster shopping)
+
+**Finance For All** – 1st Place: AI Chatbot for financial literacy using Google Gemini  
+**EcoVision** – AI & OpenCV-based waste classification, Best AI Hack @ HackRPI  
+**CartX** – Full-stack shopping optimizer app using Selenium & MongoDB (30% faster shopping)
+
 ---
 
 ### Leadership 🍎  
