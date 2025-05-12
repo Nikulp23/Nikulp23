@@ -3,7 +3,7 @@
 ---
 
 ### What do I do? 💭  
-🎓 Dual Major in Computer Science & ITWS @ RPI (3.76 GPA) - Expected Graduation Dec 2025
+🎓 Dual Major in Computer Science & ITWS @ RPI (3.76 GPA) - Expected Graduation Dec 2025  
 🧠 Incoming Master's Student in Computer Science – Focused on AI & Systems (Jan–Dec 2026)  
 💡 Passionate about cloud infrastructure, AI apps, and building for real-world impact
 
