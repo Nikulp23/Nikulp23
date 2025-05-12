@@ -58,4 +58,3 @@ Guided 500+ students through lab sessions and office hours using Python, C++, an
 🌐 [patelnikul.com](https://patelnikul.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nikulpatel23)  
 💻 [GitHub](https://github.com/Nikulp23)
-📱 +1 (845) 793-1854
